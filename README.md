@@ -1,3 +1,3 @@
-# studiova-nextjs-tailwind
+# new-website-etos-nextjs-tailwind
 
-image unoptimizaed in next config
+New website etos
