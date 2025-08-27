@@ -6,7 +6,7 @@ import Team from "@/app/components/home/team";
 import Herobanner from "@/app/components/shared/hero-banner";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Aboutus | Studiova",
+    title: "Sobre nós | Etos.",
 };
 
 export default function Page() {
@@ -14,7 +14,7 @@ export default function Page() {
         <main>
             <Herobanner
                 bannerimage="/images/about-us/banner/aboutus-banner.png"
-                heading="About us"
+                heading="Etos."
                 desc="We craft <span>innovative digital</span> designs that amplify brand identity and drive meaningful results" />
             <AboutusDetail />
             <AboutusStats/>
